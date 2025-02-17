@@ -1,0 +1,52 @@
+html{
+    background-color: antiquewhite;
+    padding: 5%;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(254, 225, 186);
+    padding: 2%;
+    border-radius: 1rem;
+}
+
+ul{
+    width: 100%;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-top: 1rem;
+
+    border-bottom: 0.1rem solid grey;
+}
+
+.boton__add{
+    background-color: rgb(0, 96, 0);
+    color: white;
+
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.nueva__tarea{
+    border-radius: 0.5rem;
+    width: 20rem;
+    padding: 0.5rem;
+}
+
+.botondel{
+    background-color: red;
+    color: aliceblue;
+}
+
+.botonrandom {
+    background-color: aqua;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.75rem;
+}
