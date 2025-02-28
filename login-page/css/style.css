@@ -1,0 +1,16 @@
+html{
+    background-color: antiquewhite;
+    padding: 5%;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(254, 225, 186);
+    padding: 2%;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
